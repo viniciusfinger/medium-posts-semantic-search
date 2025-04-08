@@ -1,3 +1,2 @@
 pinecone
 sentence_transformers
-torch
